@@ -1,14 +1,12 @@
 # Nimono
 
-<br />
 <a href="">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nimono&theme=tokyonight&layout=compact&langs_count=10" />
-<a/>
+</a>
 <br />
 
 ## GitHub README Stats
 
-<br />
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimono-sleep-well&layout=compact&theme=tokyonight" />
@@ -24,7 +22,7 @@
 <br />
 <a>
   <img src="https://github-profile-trophy.vercel.app/?username=Nimono-sleep-well&theme=tokyonight&column=7" />
-<a/>
+</a>
 <br />
 
 ## GitHub Profile Summary Cards

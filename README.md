@@ -19,7 +19,6 @@
 
 ## GitHub Profile Trophy
 
-<br />
 <a>
   <img src="https://github-profile-trophy.vercel.app/?username=Nimono-sleep-well&theme=tokyonight&column=7" />
 </a>

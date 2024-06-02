@@ -16,7 +16,7 @@
 ### Tools
 
 <p>
-  <img width="5%" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" />
+  <img width="7%" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" />
   <img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
   <img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
   <img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />

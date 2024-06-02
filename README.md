@@ -1,9 +1,27 @@
-# Nimono
+<h1 align="center">
+  Howdy! I'm Nimono
+</h1>
+<h3 align="center">
+  ～ Blender Big LOVE ～
+</h3>
 
-<a href="">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nimono&theme=tokyonight&layout=compact&langs_count=10" />
-</a>
-<br />
+# Skills
+### Language
+<p align="left">
+  <img width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  <img width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+</p>
+
+### Tools
+
+<p>
+  <img width="10%" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" />
+  <img width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
+  <img width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+  <img width="8%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+</p>
 
 ## GitHub README Stats
 
@@ -21,6 +39,13 @@
 
 <a>
   <img src="https://github-profile-trophy.vercel.app/?username=Nimono-sleep-well&theme=tokyonight&column=7" />
+</a>
+<br />
+
+## WakaTime Stats
+
+<a align="left" href="">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nimono&theme=tokyonight&layout=compact&langs_count=10" />
 </a>
 <br />
 

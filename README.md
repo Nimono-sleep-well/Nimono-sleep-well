@@ -1,6 +1,4 @@
-<div align="center">
-  # かかってこい
-<div/>
+# Nimono
 
 <br />
 <a href="">

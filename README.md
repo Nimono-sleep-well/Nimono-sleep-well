@@ -1,6 +1,6 @@
 # Nimono
 
-# GitHub README Stats
+## GitHub README Stats
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimono-sleep-well&layout=compact&theme=tokyonight" />
@@ -10,4 +10,5 @@
   </a>
 </p>
 
+## GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nimono-sleep-well&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)

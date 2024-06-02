@@ -1,7 +1,7 @@
 # Nimono
 
 <a href="">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nimono&theme=onedark&layout=compact&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nimono&theme=tokyonight&layout=compact&langs_count=10" />
 <a/>
 
 ## GitHub README Stats

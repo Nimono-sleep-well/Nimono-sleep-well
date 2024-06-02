@@ -1,6 +1,8 @@
 # Nimono
 
-[![wakatime](https://wakatime.com/badge/user/9f5caafe-ea09-4a8f-9fe8-b1fa843f27b8.svg)](https://wakatime.com/@9f5caafe-ea09-4a8f-9fe8-b1fa843f27b8)
+<a href="">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nimono-sleep-well" />
+<a/>
 
 ## GitHub README Stats
 <p align="left">

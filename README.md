@@ -12,3 +12,7 @@
 
 ## GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nimono-sleep-well&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<a href="">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nimono-sleep-well&theme=tokonight" />
+<a/>

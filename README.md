@@ -1,5 +1,7 @@
 # Nimono
 
+[![wakatime](https://wakatime.com/badge/user/9f5caafe-ea09-4a8f-9fe8-b1fa843f27b8.svg)](https://wakatime.com/@9f5caafe-ea09-4a8f-9fe8-b1fa843f27b8)
+
 ## GitHub README Stats
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">

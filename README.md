@@ -8,19 +8,19 @@
 # Skills
 ### Language
 <p align="left">
-  <img width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-  <img width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+  <img width="3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img width="3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  <img width="3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
 </p>
 
 ### Tools
 
 <p>
-  <img width="10%" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" />
-  <img width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
-  <img width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
-  <img width="8%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+  <img width="3%" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" />
+  <img width="3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
+  <img width="3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img width="3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+  <img width="3%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 </p>
 
 ## GitHub README Stats

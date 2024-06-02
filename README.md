@@ -31,6 +31,19 @@
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nimono-sleep-well&theme=tokyonight" />
 <a/>
-<a>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nimono-sleep-well&theme=tokyonight&utcOffset=9" />
-</a>
+<p align="left">
+  <a>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nimono-sleep-well&theme=tokyonight" />
+  </a>
+  <a>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nimono-sleep-well&theme=tokyonight&utcOffset=9" />
+  </a>
+</p>
+<p align="left">
+  <a>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nimono-sleep-well&theme=tokyonight" />
+  </a>
+  <a>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nimono-sleep-well&theme=tokyonight" />
+  </a>
+</p>

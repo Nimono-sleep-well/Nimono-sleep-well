@@ -18,3 +18,6 @@
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nimono-sleep-well&theme=tokyonight" />
 <a/>
+<a>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nimono-sleep-well&theme=tokyonight&utcOffset=9" />
+</a>

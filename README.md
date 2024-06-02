@@ -9,6 +9,7 @@
     <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Nimono-sleep-well&theme=tokyonight&show_icons=true" />
   </a>
 </p>
+<br />
 
 ## GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nimono-sleep-well&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)

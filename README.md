@@ -1,9 +1,13 @@
+<hr />
+
 <h1 align="center">
   Howdy! I'm Nimono
 </h1>
 <h3 align="center">
   ～ Blender Big LOVE ～
 </h3>
+
+<hr />
 
 ## GitHub README Stats
 

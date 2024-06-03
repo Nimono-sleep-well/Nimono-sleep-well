@@ -5,24 +5,6 @@
   ～ Blender Big LOVE ～
 </h3>
 
-# Skills
-### Language
-<p align="left">
-  <img width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-  <img width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
-</p>
-
-### Tools
-
-<p>
-  <img width="7%" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" />
-  <img width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
-  <img width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
-  <img width="6%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-</p>
-
 ## GitHub README Stats
 
 <p align="left">
@@ -41,6 +23,25 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Nimono-sleep-well&theme=tokyonight&column=7" />
 </a>
 <br />
+
+## Skills
+### Language
+<p align="left">
+  <img width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  <img width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+</p>
+
+### Tools
+
+<p>
+  <img width="7%" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" />
+  <img width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
+  <img width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+  <img width="6%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+</p>
+
 
 ## WakaTime Stats
 
